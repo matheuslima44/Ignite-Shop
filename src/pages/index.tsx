@@ -5,3 +5,5 @@ export default function Home() {
     </div>
   );
 }
+
+// Todo Arquivo dentro da pages, viram rotas
